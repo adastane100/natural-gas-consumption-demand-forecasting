@@ -1,0 +1,12 @@
+Natural_Gas_Consumption_Forecasting.ipynb
+resident_population_usafacts.csv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
